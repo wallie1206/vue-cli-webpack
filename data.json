@@ -1,0 +1,256 @@
+{
+  "channels": [
+    {
+      "ID": 1,
+      "title": "推荐",
+      "type": 0
+    }, {
+      "ID": 2,
+      "title": "科技",
+      "type": 0
+    }, {
+      "ID": 3,
+      "title": "生活",
+      "type": 0
+    }, {
+      "ID": 4,
+      "title": "旅游",
+      "type": 0
+    }, {
+      "ID": 5,
+      "title": "美食",
+      "type": 0
+    }, {
+      "ID": 6,
+      "title": "文化",
+      "type": 0
+    }, {
+      "ID": 7,
+      "title": "娱乐",
+      "type": 0
+    }, {
+      "ID": 8,
+      "title": "军事",
+      "type": 0
+    }, {
+      "ID": 9,
+      "title": "游戏",
+      "type": 0
+    }, {
+      "ID": 10,
+      "title": "体育",
+      "type": 0
+    }, {
+      "ID": 12,
+      "title": "段子",
+      "type": 0
+    }, {
+      "ID": 13,
+      "title": "图片",
+      "type": 0
+    }, {
+      "ID": 14,
+      "title": "财经",
+      "type": 0
+    }, {
+      "ID": 15,
+      "title": "汽车",
+      "type": 0
+    }, {
+      "ID": 16,
+      "title": "历史",
+      "type": 0
+    }, {
+      "ID": 17,
+      "title": "房产",
+      "type": 0
+    }, {
+      "ID": 18,
+      "title": "健康",
+      "type": 0
+    }, {
+      "ID": 19,
+      "title": "探索",
+      "type": 0
+    }, {
+      "ID": 20,
+      "title": "美文",
+      "type": 0
+    }
+  ],
+  "news": [
+    {
+      "channelid": 7,
+      "commentnum": 0,
+      "gallerycount": 0,
+      "goodnum": 0,
+      "height": 0,
+      "id": 1082308,
+      "keywords": "",
+      "linkUrl": "http://cdn2.optaim.com/monoploy/articles/2016-12-19/16f27d3eff5197b3b5ebfdee914afb5a.html",
+      "logoImageUrl": "http://cdn2.optaim.com/monoploy/imgs/2016-12-19/16f27d3eff5197b3b5ebfdee914afb5a_15;http://cdn2.optaim.com/monoploy/imgs/2016-12-19/16f27d3eff5197b3b5ebfdee914afb5a_16;http://cdn2.optaim.com/monoploy/imgs/2016-12-19/16f27d3eff5197b3b5ebfdee914afb5a_17",
+      "playUrl": "",
+      "publishTime": "3小时前",
+      "scanCount": 1243,
+      "shareUrl": "http://120.132.63.164/h5/share.html?detailid=1082308",
+      "source": "莫不离",
+      "str": "16f27d3eff5197b3b5ebfdee914afb5a",
+      "title": "景甜为什么一百年都火不了，《长城》后，我懂了",
+      "type": 4,
+      "videolength": 0,
+      "width": 0
+    },
+    {
+      "channelid": 15,
+      "commentnum": 0,
+      "gallerycount": 0,
+      "goodnum": 0,
+      "height": 0,
+      "id": 1080524,
+      "keywords": "",
+      "linkUrl": "http://cdn2.optaim.com/monoploy/articles/2016-12-19/1be23a4d5ca8df21736220be7619c75a.html",
+      "logoImageUrl": "http://cdn2.optaim.com/monoploy/imgs/2016-12-19/1be23a4d5ca8df21736220be7619c75a_26;http://cdn2.optaim.com/monoploy/imgs/2016-12-19/1be23a4d5ca8df21736220be7619c75a_27;http://cdn2.optaim.com/monoploy/imgs/2016-12-19/1be23a4d5ca8df21736220be7619c75a_28",
+      "playUrl": "",
+      "publishTime": "4小时前",
+      "scanCount": 1744,
+      "shareUrl": "http://120.132.63.164/h5/share.html?detailid=1080524",
+      "source": "快车报",
+      "str": "1be23a4d5ca8df21736220be7619c75a",
+      "title": "全新别克GL8到底有多舒服？",
+      "type": 4,
+      "videolength": 0,
+      "width": 0
+    },
+    {
+      "channelid": 8,
+      "commentnum": 0,
+      "gallerycount": 0,
+      "goodnum": 0,
+      "height": 0,
+      "id": 1077542,
+      "keywords": "",
+      "linkUrl": "http://cdn2.optaim.com/monoploy/articles/2016-12-18/0143eca0d959829c3ffb02b182054029.html",
+      "logoImageUrl": "http://cdn2.optaim.com/monoploy/imgs/2016-12-18/0143eca0d959829c3ffb02b182054029_9",
+      "playUrl": "",
+      "publishTime": "18小时前",
+      "scanCount": 506,
+      "shareUrl": "http://120.132.63.164/h5/share.html?detailid=1077542",
+      "source": "早安语录",
+      "str": "c5839d57a2c20ded4e69a62127ca86ad",
+      "title": "朋友圈温暖的早安问候语配图片",
+      "type": 3,
+      "videolength": 0,
+      "width": 0
+    },
+    {
+      "channelid": 7,
+      "commentnum": 0,
+      "gallerycount": 0,
+      "goodnum": 0,
+      "height": 0,
+      "id": 1073793,
+      "keywords": "",
+      "linkUrl": "http://cdn2.optaim.com/monoploy/articles/2016-12-18/2311b7767880b4bd20726b1bc9bc4422.html",
+      "logoImageUrl": "http://cdn2.optaim.com/monoploy/imgs/2016-12-18/2311b7767880b4bd20726b1bc9bc4422_7;http://cdn2.optaim.com/monoploy/imgs/2016-12-18/2311b7767880b4bd20726b1bc9bc4422_8;http://cdn2.optaim.com/monoploy/imgs/2016-12-18/2311b7767880b4bd20726b1bc9bc4422_9",
+      "playUrl": "",
+      "publishTime": "21小时前",
+      "scanCount": 1367,
+      "shareUrl": "http://120.132.63.164/h5/share.html?detailid=1073793",
+      "source": "娱乐旋风",
+      "str": "2311b7767880b4bd20726b1bc9bc4422",
+      "title": "李连杰死对头，无发无眉体重34年未变，妻子仍是个谜",
+      "type": 4,
+      "videolength": 0,
+      "width": 0
+    },
+    {
+      "channelid": 23,
+      "commentnum": 0,
+      "gallerycount": 0,
+      "goodnum": 0,
+      "height": 0,
+      "id": 1093794,
+      "keywords": "",
+      "linkUrl": "http://cdn2.optaim.com/monoploy/articles/2016-12-20/305904f851081257f13692aef0a8534e.html",
+      "logoImageUrl": "http://cdn2.optaim.com/monoploy/imgs/2016-12-20/305904f851081257f13692aef0a8534e_4;http://cdn2.optaim.com/monoploy/imgs/2016-12-20/305904f851081257f13692aef0a8534e_5;http://cdn2.optaim.com/monoploy/imgs/2016-12-20/305904f851081257f13692aef0a8534e_6",
+      "playUrl": "",
+      "publishTime": "12小时前",
+      "scanCount": 741,
+      "shareUrl": "http://bajiaoke.520igo.com/h5/share.html?detailid=1093794",
+      "source": "小狐娱乐记",
+      "str": "305904f851081257f13692aef0a8534e",
+      "title": "Baby挺孕肚拍广告，是捞金赚奶粉钱还是另有他因",
+      "type": 4,
+      "videolength": 0,
+      "width": 0
+    },
+    {
+      "channelid": 6,
+      "commentnum": 0,
+      "gallerycount": 0,
+      "goodnum": 0,
+      "height": 0,
+      "id": 1082806,
+      "keywords": "",
+      "linkUrl": "http://cdn2.optaim.com/monoploy/articles/2016-12-19/b441b60ab7b12b170531e7df1fa3af23.html",
+      "logoImageUrl": "http://cdn2.optaim.com/monoploy/imgs/2016-12-19/b441b60ab7b12b170531e7df1fa3af23_5;http://cdn2.optaim.com/monoploy/imgs/2016-12-19/b441b60ab7b12b170531e7df1fa3af23_6;http://cdn2.optaim.com/monoploy/imgs/2016-12-19/b441b60ab7b12b170531e7df1fa3af23_7",
+      "playUrl": "",
+      "publishTime": "16小时前",
+      "scanCount": 1366,
+      "shareUrl": "http://120.132.63.164/h5/share.html?detailid=1082806",
+      "source": "文人小哥",
+      "str": "b441b60ab7b12b170531e7df1fa3af23",
+      "title": "易经中3个重要短语，用图画一眼就能明白，胜却千言万语",
+      "type": 4,
+      "videolength": 0,
+      "width": 0
+    },
+    {
+      "channelid": 5,
+      "commentnum": 0,
+      "gallerycount": 0,
+      "goodnum": 0,
+      "height": 0,
+      "id": 1079737,
+      "keywords": "",
+      "linkUrl": "http://cdn2.optaim.com/monoploy/articles/2016-12-19/bab947b0903f34f3960e85118f243162.html",
+      "logoImageUrl": "http://cdn2.optaim.com/monoploy/imgs/2016-12-19/bab947b0903f34f3960e85118f243162_32;http://cdn2.optaim.com/monoploy/imgs/2016-12-19/bab947b0903f34f3960e85118f243162_33;http://cdn2.optaim.com/monoploy/imgs/2016-12-19/bab947b0903f34f3960e85118f243162_34",
+      "playUrl": "",
+      "publishTime": "18小时前",
+      "scanCount": 506,
+      "shareUrl": "http://120.132.63.164/h5/share.html?detailid=1079737",
+      "source": "奇石圈",
+      "str": "c5839d57a2c20ded4e69a62127ca86ad",
+      "title": "为了抢先买下这块石头，他追了石主7个多月花了888万",
+      "type": 4,
+      "videolength": 0,
+      "width": 0
+    },
+    {
+      "channelid": 2,
+      "commentnum": 0,
+      "gallerycount": 0,
+      "goodnum": 0,
+      "height": 0,
+      "id": 1076443,
+      "keywords": "",
+      "linkUrl": "http://cdn2.optaim.com/monoploy/articles/2016-12-18/d1af1bf2c6c67dfb42a67ee72e66d9b4.html",
+      "logoImageUrl": "http://cdn2.optaim.com/monoploy/imgs/2016-12-18/d1af1bf2c6c67dfb42a67ee72e66d9b4_3;http://cdn2.optaim.com/monoploy/imgs/2016-12-18/d1af1bf2c6c67dfb42a67ee72e66d9b4_4;http://cdn2.optaim.com/monoploy/imgs/2016-12-18/d1af1bf2c6c67dfb42a67ee72e66d9b4_5",
+      "playUrl": "",
+      "publishTime": "22小时前",
+      "scanCount": 1661,
+      "shareUrl": "http://120.132.63.164/h5/share.html?detailid=1076443",
+      "source": "漫谈科技",
+      "str": "d1af1bf2c6c67dfb42a67ee72e66d9b4",
+      "title": "网曝董明珠南京举办同学聚会，同学已满头银发，感觉董阿姨最年轻",
+      "type": 4,
+      "videolength": 0,
+      "width": 0
+    }
+  ],
+  "user":{
+    "name":"铭铭",
+    "avatar":"http://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoFdTpsvmlBN0H4fhRWvAAV189fapKdw4htnKsMvOwWW2fdXHhibrpZfQVd2SyHYA2SVoWuIwJCgOQ/0",
+    "location":"北京"
+  }
+}
